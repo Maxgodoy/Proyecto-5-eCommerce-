@@ -36,7 +36,7 @@ const data = {
       slug: 'creatina-myprotein',
       category: 'Creatina',
       image: '/images/creatina1.jpg',
-      price: 45.0,
+      price: 45.99,
       countInStock: 10,
       brand: 'MyProtein ',
       rating: 4.5,
